@@ -14,7 +14,7 @@ npm start
 # Trying this
 npx create-react-app advent_2023_react --typescript
 
-cd my-app
+cd advent_2023_react
 
 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
 

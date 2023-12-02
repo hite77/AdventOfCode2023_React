@@ -1,5 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+
+const newfunction = (something: boolean) => {
+  console.log(something)
+}
 
 function App() {
   return (
