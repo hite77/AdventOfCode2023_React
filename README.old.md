@@ -2,8 +2,7 @@ Advent of code: https://adventofcode.com/2023/day/1
 
 React tutorial: https://react.dev/learn/tutorial-tic-tac-toe#setup-for-the-tutorial
 
-TODO: typescript?
-TODO: vi and vitest?
+TODO: vi and vitest: https://vitest.dev/guide/
 TODO: RTL is this related to vitest?
 
 TODO: gitignore for node/react/typescript
