@@ -17,3 +17,8 @@ cd advent_2023_react
 
 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
 
+this gave errors ^^^^^
+
+# See if this is better....
+
+npx create-react-app my-app --template typescript
